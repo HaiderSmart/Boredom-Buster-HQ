@@ -1,0 +1,52 @@
+
+body
+{
+    background-color:#f1fafe;
+    margin: 0px;
+}
+
+.logo
+{
+    background-color:#1d3557;
+    display: block;
+}
+
+.navigationbar
+{
+    margin-left: 40%;
+    display: inline-block;
+}
+
+.navbar a
+{
+ display: block;
+ text-decoration:none;
+ color: white;
+ padding:15px;
+}
+
+.navbar ul
+{ 
+ list-style-type:none;   
+}
+
+.navbar a:hover
+{
+    background-color:hsl(0, 0%, 10%);
+}
+
+.navbar li
+{
+    float: left;
+    font-family: "Roboto", sans-serif;
+     font-weight: 500;
+     font-style: normal;
+     padding:0px;
+}
+
+.meme
+{
+  display:inline;
+  margin-left:20%;
+  gap:20px;
+}
