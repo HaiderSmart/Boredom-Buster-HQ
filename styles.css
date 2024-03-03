@@ -1,7 +1,7 @@
 
 body
 {
-    background-color:#f1fafe;
+    background-color:black;
     margin: 0px;
 }
 
@@ -9,6 +9,7 @@ body
 {
     background-color:#1d3557;
     display: block;
+    margin-bottom:20px;
 }
 
 .navigationbar
@@ -47,5 +48,6 @@ body
 .meme
 {
   display:block;
-  gap:20px;
+  margin-bottom:20px;
 }
+
