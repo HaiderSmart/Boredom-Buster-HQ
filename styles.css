@@ -46,7 +46,6 @@ body
 
 .meme
 {
-  display:inline;
-  margin-left:20%;
+  display:block;
   gap:20px;
 }
